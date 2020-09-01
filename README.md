@@ -13,3 +13,7 @@
    <p>Desafio 4 Algar Algar tec criar um modelo de contrataçao utilizando modeler flow ibm : https://github.com/maratonadev-br/desafio-4-2020
    <p>  Qualidade alcançada:
             ★ ★ ★ ★ ★
+      
+   <p>Desafio 6 LIT Neste desafio, você deverá utilizar um jupyter notebook para criar um modelo de aprendizado de máquina capaz, com base nas variáveis fornecidas no dataset, identificar o que define o perfil de cada aluno para poder realizar previsões sobre futuros alunos : https://github.com/maratonadev-br/desafio-6-2020
+   <p>  Qualidade alcançada:
+            ★ ★ ★ ★ ★
